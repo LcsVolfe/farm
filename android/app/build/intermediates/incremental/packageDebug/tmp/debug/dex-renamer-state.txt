@@ -1,0 +1,4 @@
+#Fri Sep 25 08:38:26 BRT 2020
+base.0=/home/manjaro/workspace/Uno/Farm/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
